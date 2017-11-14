@@ -1,0 +1,25 @@
+{
+  "name": "react-small-label",
+  "version": "1.0.2",
+  "description": "React component for small font labels",
+  "main": "lib/index.js",
+  "scripts": {},
+  "author": "trence320@163.com",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/terence55/react-small-label"
+  },
+  "dependencies": {
+    "prop-types": "^15.5.10",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  },
+  "keywords": [
+    "react",
+    "react-component",
+    "component",
+    "small",
+    "label"
+  ]
+}
